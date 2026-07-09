@@ -44,7 +44,7 @@ I enjoy building practical cybersecurity project that demonstrate real-world ski
 - ISC2 CC
 - ComPTIA Security+ (In progress)
 
-##Education
--NIIT Port Harcourt
--(Cybersecurity Program)
+## Education
+- NIIT Port Harcourt
+- (Cybersecurity Program)
 
