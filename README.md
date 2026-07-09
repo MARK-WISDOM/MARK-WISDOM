@@ -2,7 +2,7 @@
 
 ## About Me.
 I am a Cybersecurity Student at NIIT Port Hacourt passionate about offensive and defensive cybersecurity
-I enjoy building practical cybersecurity project that demonstrate real-world skills in:**Penetration Testing**,**Log Analysis**,**Digital Forensic**,**Osint**, **Threat hunting**, **Social engineering**, Vulnerability assesment**, **Governance risk and compliance**
+I enjoy building practical cybersecurity project that demonstrate real-world skills in:
 - Penetration Testing
 - Log Analysis
 - Digital Forensic 
@@ -11,8 +11,8 @@ I enjoy building practical cybersecurity project that demonstrate real-world ski
 - Social engineering
 - Vulnerability assesment
 - Governance risk and compliance
-- 
-##PROJECTS
+  
+## PROJECTS
 | PROJECT | DESCRIPTION | REPOSITORY |
 |---------|-------------|------------|
 | OSNT INVESTIGATION | CONDUCTED AN OSINT INVESTIGATION | COMING SOON |
