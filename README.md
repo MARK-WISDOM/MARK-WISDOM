@@ -16,7 +16,7 @@ I enjoy building practical cybersecurity project that demonstrate real-world ski
 | PROJECT | DESCRIPTION | REPOSITORY |
 |---------|-------------|------------|
 | Osint investigation | Conducted an osint investigation | Coming soon |
-| Log Analysis | Analyzed IIS and windows events logs to identify attacks | coming soon |
+| Log Analysis | Analyzed IIS and windows events logs to identify attacks | Coming soon |
 
 ## skills 
 ### operating systems
