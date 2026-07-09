@@ -21,8 +21,8 @@ I enjoy building practical cybersecurity project that demonstrate real-world ski
 ## skills 
 ### operating systems
 
--windows
--linux
+- windows
+- linux
 
 ### Networking
 - TCP/IP
